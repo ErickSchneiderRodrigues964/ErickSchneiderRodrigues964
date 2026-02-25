@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, eu sou Erick Schneider Rodrigues<br><br>🎓 Estudante do Instituto Federal do Triângulo Mineiro (IFTM) - Campus Ituiutaba (2024-2027)<br>💻 Desenvolvedor em formação<br>🔌 Entusiasta de tecnologia<br><br>Tenho experiência em microcontroladores, como Arduino e ESP32, desenvolvendo projetos voltados para sistemas embarcados e automação.<br><br>Possuo um grande interesse em aprofundar meus conhecimentos em Desenvolvimento Web, tanto no Front-End quanto no Back-End, buscando me tornar um desenvolvedor completo e preparado para criar soluções modernas e eficientes.<br><br>Gosto de entender como a tecnologia funciona na prática, seja no hardware ou no software, sempre buscando evoluir através de estudos e projetos.</p>
+<p align="left">Olá, sou Erick Schneider Rodrigues<br><br> Técnico Formado em Eletrônica no CEFET-MG localizado em Araxá (2021-2023)<br><br>🎓 Estudante do Instituto Federal do Triângulo Mineiro (IFTM) - Campus Ituiutaba (2024-2027)<br>💻 Desenvolvedor em formação<br>🔌 Entusiasta de tecnologia<br><br>Tenho experiência em microcontroladores, como Arduino e ESP32, desenvolvendo projetos voltados para sistemas embarcados e automação.<br><br>Possuo um grande interesse em aprofundar meus conhecimentos em Desenvolvimento Web, tanto no Front-End quanto no Back-End, buscando me tornar um desenvolvedor completo e preparado para criar soluções modernas e eficientes.<br><br>Gosto de entender como a tecnologia funciona na prática, seja no hardware ou no software, sempre buscando evoluir através de estudos e projetos.</p>
 
 ###
 
